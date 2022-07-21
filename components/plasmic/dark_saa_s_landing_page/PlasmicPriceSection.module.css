@@ -1,0 +1,183 @@
+.root {
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: var(--token-HwecZAHGf3YgU);
+  justify-content: center;
+  align-items: center;
+}
+.freeBox__gy5QR {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: var(--token-HwecZAHGf3YgU);
+  align-self: center;
+  min-width: 0;
+  padding: 0px 8px;
+}
+.freeBox__gy5QR > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  margin-left: calc(0px - 1px);
+  width: calc(100% + 1px);
+}
+.freeBox__gy5QR > :global(.__wab_flex-container) > *,
+.freeBox__gy5QR > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__gy5QR > :global(.__wab_flex-container) > picture > img,
+.freeBox__gy5QR
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 1px;
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .freeBox__gy5QR {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .freeBox__gy5QR > :global(.__wab_flex-container) {
+    flex-direction: column;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+  }
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .freeBox__gy5QR > :global(.__wab_flex-container) > *,
+  .freeBox__gy5QR > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .freeBox__gy5QR > :global(.__wab_flex-container) > picture > img,
+  .freeBox__gy5QR
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+  }
+}
+.freeBox___0KHJg {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  left: auto;
+  top: auto;
+  min-width: 0;
+  padding: 8px;
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .freeBox___0KHJg {
+    padding-bottom: 0px;
+  }
+}
+.priceCard__a6Rtz:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .priceCard__a6Rtz:global(.__wab_instance) {
+    margin-bottom: 51px;
+  }
+}
+.freeBox__qYrZ {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  left: auto;
+  top: auto;
+  min-width: 0;
+  padding: 8px;
+}
+.freeBox___4V8S {
+  display: flex;
+  position: absolute;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: space-between;
+  width: auto;
+  height: auto;
+  max-width: 304px;
+  background: #185adb;
+  z-index: 3;
+  align-self: center;
+  left: auto;
+  top: 8px;
+  margin-top: -20px;
+  border-radius: 10px;
+  padding: 12px 15px;
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .freeBox___4V8S {
+    margin-top: -18px;
+  }
+}
+.text {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 304px;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  text-align: center;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .text {
+    font-size: 20px;
+  }
+}
+.priceCard__ns8Cv:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  z-index: 1;
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .priceCard__ns8Cv:global(.__wab_instance) {
+    z-index: 1;
+    margin-bottom: 9px;
+    display: flex;
+  }
+}
+.freeBox__edCdL {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  left: auto;
+  top: auto;
+  min-width: 0;
+  padding: 8px;
+}
+.priceCard__r9O6:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+@media (min-width: 0px) and (max-width: 930px) {
+  .priceCard__r9O6:global(.__wab_instance) {
+    margin-bottom: 28px;
+    margin-top: 21px;
+  }
+}
